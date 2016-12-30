@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Transport Isère</string>
+    <string name="action_settings">Préférences</string>
+    <string name="timetable_no_result">Aucun résultat</string>
+</resources>
